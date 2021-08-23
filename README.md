@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I´m César 👋🧑‍💻
+
+```js
+const Ctorres = {
+  pronouns: "he" | "hin",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Django],
+}
+```
 
 <!--
 **Ctorres2020/Ctorres2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
