@@ -7,6 +7,8 @@ const Ctorres2020 = {
   tools: [React, Node, Django],
 }
 ```
+You can find me 🌏!
+- [LinkedIn](https://www.linkedin.com/in/cesar-ivan-torres-front-dev/)
 
 <!--
 **Ctorres2020/Ctorres2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
