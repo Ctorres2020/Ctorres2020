@@ -3,7 +3,7 @@
 ## about me in code
 ```js
 const Ctorres2020 = {
-  pronouns: "he" | "hin",
+  pronouns: "he",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Django],
 }
