@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm César Torres 👋🧑‍💻</h1>
 <h3 align="center">A passionate frontend developer from Paraguay</h3>
 
-- 🔭 I’m currently working on [Green Website](https://greenwebsite.net/)
+- 🔭 I’m currently working on [Portafolio]([https://greenwebsite.net/](https://portafolioespanol.vercel.app/))
 
-- 🌱 I’m currently learning **React Native, NextJs**
+- 🌱 I’m currently learning **React Native, NextJs, AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ctorres2020](https://github.com/Ctorres2020)
 
-- 📝 I regularly write articles on [https://greenwebsite.net/blog/](https://greenwebsite.net/blog/)
+- 📝 I regularly write articles on [https://cesartorresdigital.com](https://cesartorresdigital.com)
 
-- 💬 Ask me about **HTML5, CSS3, JS, React**
+- 💬 Ask me about **HTML5, CSS3, JS, React, NODEJS**
 
 ```js
 const Ctorres2020 = {
